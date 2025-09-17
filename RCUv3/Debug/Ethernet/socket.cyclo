@@ -1,0 +1,12 @@
+../Ethernet/socket.c:106:8:socket	19
+../Ethernet/socket.c:199:8:close	4
+../Ethernet/socket.c:242:8:listen	6
+../Ethernet/socket.c:258:8:connect	12
+../Ethernet/socket.c:314:8:disconnect	7
+../Ethernet/socket.c:334:9:send	16
+../Ethernet/socket.c:402:9:recv	14
+../Ethernet/socket.c:507:9:sendto	19
+../Ethernet/socket.c:611:9:recvfrom	25
+../Ethernet/socket.c:793:9:ctlsocket	14
+../Ethernet/socket.c:839:9:setsockopt	15
+../Ethernet/socket.c:892:9:getsockopt	18

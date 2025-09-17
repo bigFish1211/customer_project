@@ -1,0 +1,3 @@
+../Ethernet/led.c:4:6:led_init	8	static
+../Ethernet/led.c:9:6:led_pa1	16	static
+../Ethernet/led.c:14:6:led_toggle	8	static

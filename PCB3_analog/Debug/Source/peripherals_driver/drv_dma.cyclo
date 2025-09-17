@@ -1,0 +1,4 @@
+../Source/peripherals_driver/drv_dma.c:11:6:dma_init	1
+../Source/peripherals_driver/drv_dma.c:40:6:dma_deInit	1
+../Source/peripherals_driver/drv_dma.c:44:6:dma_config	2
+../Source/peripherals_driver/drv_dma.c:66:6:dma_stop	1

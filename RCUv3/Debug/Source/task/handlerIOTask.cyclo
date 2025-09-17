@@ -1,0 +1,9 @@
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	1
+../Source/task/handlerIOTask.c:29:5:putcomdata	2
+../Source/task/handlerIOTask.c:45:5:handler_comdata	4
+../Source/task/handlerIOTask.c:69:6:RJ45_IO_setup	2
+../Source/task/handlerIOTask.c:76:6:RJ45_set_output	4
+../Source/task/handlerIOTask.c:97:10:RJ45_get_output	4
+../Source/task/handlerIOTask.c:114:10:RJ45_get_input	4
+../Source/task/handlerIOTask.c:131:6:handler_IO	3

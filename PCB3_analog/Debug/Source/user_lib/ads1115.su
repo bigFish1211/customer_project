@@ -1,0 +1,3 @@
+../Source/user_lib/ads1115.c:16:6:ADS1115_WriteReg	24	static
+../Source/user_lib/ads1115.c:24:10:ADS1115_ReadReg	32	static
+../Source/user_lib/ads1115.c:32:9:ADS1115_ReadChannel	24	static

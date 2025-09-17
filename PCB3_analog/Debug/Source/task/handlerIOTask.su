@@ -1,0 +1,4 @@
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../Source/task/handlerIOTask.c:14:5:putcomdata	32	static
+../Source/task/handlerIOTask.c:30:5:handler_comdata	16	static

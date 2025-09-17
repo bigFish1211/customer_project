@@ -1,0 +1,4 @@
+../Source/peripherals_driver/iwdt.c:24:17:__IWDG_IsReady	2
+../Source/peripherals_driver/iwdt.c:27:6:IWDG_init	2
+../Source/peripherals_driver/iwdt.c:39:6:startWDT	1
+../Source/peripherals_driver/iwdt.c:44:6:cleanWDT	1

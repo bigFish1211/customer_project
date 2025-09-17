@@ -1,0 +1,13 @@
+../Drivers/CMSIS/Include/core_cm0plus.h:850:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm0plus.h:1056:26:SysTick_Config	2
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h:1343:22:LL_RCC_HSI_Enable	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h:1363:26:LL_RCC_HSI_IsReady	2
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h:1684:22:LL_RCC_SetSysClkSource	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h:1699:26:LL_RCC_GetSysClkSource	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h:1719:22:LL_RCC_SetAHBPrescaler	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h:1735:22:LL_RCC_SetAPB1Prescaler	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	1
+../Source/task/main.c:47:5:main	3
+../Source/task/main.c:64:13:setup	1
+../Source/task/main.c:81:13:SystemClock_Config	3

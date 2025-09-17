@@ -1,0 +1,7 @@
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_bus.h:921:22:LL_APB2_GRP1_EnableClock	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_bus.h:1135:22:LL_IOP_GRP1_EnableClock	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_spi.h:358:22:LL_SPI_Enable	1
+../Source/peripherals_driver/drv_spi.c:21:6:SPI1_init	1
+../Source/peripherals_driver/drv_spi.c:83:9:SPI1_readWrite	3
+../Source/peripherals_driver/drv_spi.c:103:6:SPI1_WriteByte	1
+../Source/peripherals_driver/drv_spi.c:107:9:SPI1_ReadByte	1

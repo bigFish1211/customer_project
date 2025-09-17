@@ -1,0 +1,7 @@
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_gpio.h:857:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_gpio.h:886:22:LL_GPIO_ResetOutputPin	16	static
+../Ethernet/spi.c:8:6:SPI_CrisEnter	16	static,ignoring_inline_asm
+../Ethernet/spi.c:16:6:SPI_CrisExit	16	static,ignoring_inline_asm
+../Ethernet/spi.c:25:6:SPI_CS_Select	8	static
+../Ethernet/spi.c:33:6:SPI_CS_Deselect	8	static
+../Ethernet/spi.c:37:6:register_wizchip	8	static

@@ -1,0 +1,12 @@
+../Ethernet/socket.c:106:8:socket	32	static
+../Ethernet/socket.c:199:8:close	16	static
+../Ethernet/socket.c:242:8:listen	16	static
+../Ethernet/socket.c:258:8:connect	24	static
+../Ethernet/socket.c:314:8:disconnect	16	static
+../Ethernet/socket.c:334:9:send	32	static
+../Ethernet/socket.c:402:9:recv	40	static
+../Ethernet/socket.c:507:9:sendto	40	static
+../Ethernet/socket.c:611:9:recvfrom	48	static
+../Ethernet/socket.c:793:9:ctlsocket	24	static
+../Ethernet/socket.c:839:9:setsockopt	16	static
+../Ethernet/socket.c:892:9:getsockopt	24	static

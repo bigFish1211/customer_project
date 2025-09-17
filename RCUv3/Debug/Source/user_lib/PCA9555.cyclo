@@ -1,0 +1,10 @@
+../Source/user_lib/PCA9555.c:26:6:PCA9555_Write	1
+../Source/user_lib/PCA9555.c:32:9:PCA9555_Read	1
+../Source/user_lib/PCA9555.c:39:6:PCA9555_Init	1
+../Source/user_lib/PCA9555.c:48:6:PCA9555_Init16	1
+../Source/user_lib/PCA9555.c:56:6:PCA9555_WritePort0	1
+../Source/user_lib/PCA9555.c:61:6:PCA9555_WritePort1	1
+../Source/user_lib/PCA9555.c:66:6:PCA9555_Write16	1
+../Source/user_lib/PCA9555.c:72:9:PCA9555_ReadPort0	1
+../Source/user_lib/PCA9555.c:77:9:PCA9555_ReadPort1	1
+../Source/user_lib/PCA9555.c:82:10:PCA9555_Read16	1
